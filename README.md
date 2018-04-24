@@ -2,7 +2,7 @@
 
 Supporting data for ["When the Government Counts Calories"](https://heyanderson.com/projects/nhanes) from the OCR Journal #0002.
 
-![men vs women](https://user-images.githubusercontent.com/73099/39161308-12b6f540-473e-11e8-8a0e-528131fcad8f.png)
+![men vs women](https://user-images.githubusercontent.com/73099/39162010-65ac4fc2-4741-11e8-93e0-e0bc1adf4811.png)
 
 #### Requirements
 
