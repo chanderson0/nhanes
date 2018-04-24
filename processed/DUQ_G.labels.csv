@@ -1,0 +1,44 @@
+DUQ_G,SEQN,Respondent sequence number
+DUQ_G,DUQ200,Ever used marijuana or hashish
+DUQ_G,DUQ210,Age when first tried marijuana
+DUQ_G,DUQ211,Used marijuana every month for a year?
+DUQ_G,DUQ213,Age started regularly using marijuana
+DUQ_G,DUQ215Q,Time since last used marijuana regularly
+DUQ_G,DUQ215U,Time since used marijuana regularly/unit
+DUQ_G,DUQ217,How often would you use marijuana?
+DUQ_G,DUQ219,How many joints or pipes smoke in a day?
+DUQ_G,DUQ220Q,Last time used marijuana or hashish
+DUQ_G,DUQ220U,Last time used marijuana or hashish/unit
+DUQ_G,DUQ230,# days used marijuana or hashish/month
+DUQ_G,DUQ240,Ever used cocaine/heroin/methamphetamine
+DUQ_G,DUQ250,Ever use any form of cocaine
+DUQ_G,DUQ260,Age first used cocaine
+DUQ_G,DUQ270Q,"Last time you used cocaine, in any form"
+DUQ_G,DUQ270U,Last time you used cocaine/unit
+DUQ_G,DUQ272,# of time you used cocaine
+DUQ_G,DUQ280,# of days used cocaine/month
+DUQ_G,DUQ290,Ever used heroin
+DUQ_G,DUQ300,Age first used heroin
+DUQ_G,DUQ310Q,Last time used heroin
+DUQ_G,DUQ310U,Last time used heroin/unit
+DUQ_G,DUQ320,# of days used heroin/month
+DUQ_G,DUQ330,Ever used methamphetamine
+DUQ_G,DUQ340,Age first used methamphetamine
+DUQ_G,DUQ350Q,Last time used methamphetamine
+DUQ_G,DUQ350U,Last time used methamphetamine/unit
+DUQ_G,DUQ352,# times used methamphetamine
+DUQ_G,DUQ360,# days used methamphetamine/month
+DUQ_G,DUQ370,Ever use a needle to inject illegal drug
+DUQ_G,DUQ380A,Drugs injected - Cocaine
+DUQ_G,DUQ380B,Drugs injected - Heroin
+DUQ_G,DUQ380C,Drugs injected - Methamphetamine
+DUQ_G,DUQ380D,Drugs injected - Steroids
+DUQ_G,DUQ380E,Drugs injected - Any other drugs
+DUQ_G,DUQ390,Age first injected drugs
+DUQ_G,DUQ400Q,Last time injected drugs
+DUQ_G,DUQ400U,Last time injected drugs/unit
+DUQ_G,DUQ410,# times injected drugs/lifetime
+DUQ_G,DUQ420,How often did you inject drugs
+DUQ_G,DUQ425,"BOX 5  CHECK ITEM 425.  IF SP HAS USED MARIJUANA (CODED '1' IN DUQ.200 OR SP HAS USED COCAINE, HEROIN, OR METHAMPHETAMINE (CODED '1') IN DUQ.240, OR SP HAS INJECTED ANY DRUG NOT PRESCRIBED BY A DOCTOR (CODED '1') IN DUQ.370, GO TO DUQ.430.  OTHERWISE, GO TO END OF SECTION."
+DUQ_G,DUQ430,Ever been in rehabilitation program
+

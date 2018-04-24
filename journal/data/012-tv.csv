@@ -1,0 +1,1061 @@
+cat,var,count,uniq_count
+Apple juice,0,37,34
+Apple juice,1,62,46
+Apple juice,2,71,57
+Apple juice,3,49,40
+Apple juice,4,36,27
+Apple juice,5,48,34
+Apple juice,8,9,6
+Apples,0,174,133
+Apples,1,212,165
+Apples,2,307,224
+Apples,3,205,158
+Apples,4,129,96
+Apples,5,154,116
+Apples,8,36,24
+Apples,99,3,1
+Baby food: cereals,0,1,1
+Baby food: fruit,3,1,1
+Baby food: snacks and sweets,1,1,1
+Baby food: vegetable,2,1,1
+Baby food: vegetable,4,1,1
+Baby food: yogurt,3,1,1
+Baby water,0,1,1
+Baby water,3,2,2
+Bacon,0,58,46
+Bacon,1,112,96
+Bacon,2,165,141
+Bacon,3,154,129
+Bacon,4,128,107
+Bacon,5,172,131
+Bacon,8,9,8
+Bagels and English muffins,0,62,50
+Bagels and English muffins,1,81,68
+Bagels and English muffins,2,125,103
+Bagels and English muffins,3,92,76
+Bagels and English muffins,4,48,41
+Bagels and English muffins,5,68,53
+Bagels and English muffins,8,18,13
+Bananas,0,217,152
+Bananas,1,301,221
+Bananas,2,436,318
+Bananas,3,309,221
+Bananas,4,164,119
+Bananas,5,268,187
+Bananas,8,39,31
+Bananas,99,2,2
+"Beans, peas, legumes",0,155,112
+"Beans, peas, legumes",1,217,158
+"Beans, peas, legumes",2,327,258
+"Beans, peas, legumes",3,208,164
+"Beans, peas, legumes",4,119,97
+"Beans, peas, legumes",5,140,116
+"Beans, peas, legumes",8,28,22
+"Beans, peas, legumes",99,2,2
+"Beef, excludes ground",0,114,95
+"Beef, excludes ground",1,167,144
+"Beef, excludes ground",2,231,198
+"Beef, excludes ground",3,180,153
+"Beef, excludes ground",4,147,127
+"Beef, excludes ground",5,174,148
+"Beef, excludes ground",8,18,16
+"Beef, excludes ground",99,4,2
+Beer,0,145,97
+Beer,1,216,147
+Beer,2,271,189
+Beer,3,188,130
+Beer,4,117,77
+Beer,5,158,118
+Beer,8,23,17
+Berries,0,123,80
+Berries,1,123,94
+Berries,2,165,118
+Berries,3,136,100
+Berries,4,85,54
+Berries,5,83,61
+Berries,8,19,13
+"Biscuits, muffins, quick breads",0,92,69
+"Biscuits, muffins, quick breads",1,118,96
+"Biscuits, muffins, quick breads",2,204,166
+"Biscuits, muffins, quick breads",3,198,163
+"Biscuits, muffins, quick breads",4,109,92
+"Biscuits, muffins, quick breads",5,181,150
+"Biscuits, muffins, quick breads",8,12,11
+Bottled water,0,594,262
+Bottled water,1,929,394
+Bottled water,2,1414,589
+Bottled water,3,1079,465
+Bottled water,4,620,262
+Bottled water,5,976,389
+Bottled water,8,104,45
+Bottled water,99,12,3
+Burgers (single code),0,42,37
+Burgers (single code),1,73,63
+Burgers (single code),2,109,99
+Burgers (single code),3,89,78
+Burgers (single code),4,62,56
+Burgers (single code),5,95,85
+Burgers (single code),8,17,16
+Burritos and tacos,0,78,66
+Burritos and tacos,1,140,109
+Burritos and tacos,2,193,157
+Burritos and tacos,3,118,93
+Burritos and tacos,4,77,62
+Burritos and tacos,5,92,76
+Burritos and tacos,8,29,19
+Butter and animal fats,0,122,84
+Butter and animal fats,1,168,124
+Butter and animal fats,2,284,207
+Butter and animal fats,3,187,134
+Butter and animal fats,4,114,83
+Butter and animal fats,5,212,148
+Butter and animal fats,8,21,17
+Cakes and pies,0,118,97
+Cakes and pies,1,153,126
+Cakes and pies,2,300,243
+Cakes and pies,3,230,198
+Cakes and pies,4,170,136
+Cakes and pies,5,198,161
+Cakes and pies,8,18,18
+Cakes and pies,99,5,5
+Candy containing chocolate,0,144,110
+Candy containing chocolate,1,187,147
+Candy containing chocolate,2,281,218
+Candy containing chocolate,3,187,146
+Candy containing chocolate,4,132,102
+Candy containing chocolate,5,206,157
+Candy containing chocolate,8,33,24
+Candy containing chocolate,99,3,2
+Candy not containing chocolate,0,121,96
+Candy not containing chocolate,1,188,145
+Candy not containing chocolate,2,233,192
+Candy not containing chocolate,3,176,136
+Candy not containing chocolate,4,130,93
+Candy not containing chocolate,5,172,139
+Candy not containing chocolate,8,29,22
+Carrots,0,115,91
+Carrots,1,106,88
+Carrots,2,213,181
+Carrots,3,124,111
+Carrots,4,95,75
+Carrots,5,67,57
+Carrots,8,20,16
+Cereal bars,0,52,35
+Cereal bars,1,74,55
+Cereal bars,2,123,95
+Cereal bars,3,59,46
+Cereal bars,4,40,33
+Cereal bars,5,42,32
+Cereal bars,8,9,7
+Cheese,0,417,267
+Cheese,1,623,387
+Cheese,2,901,563
+Cheese,3,634,427
+Cheese,4,403,253
+Cheese,5,564,363
+Cheese,8,66,47
+Cheese,99,3,1
+"Chicken patties, nuggets and tenders",0,38,37
+"Chicken patties, nuggets and tenders",1,57,54
+"Chicken patties, nuggets and tenders",2,89,85
+"Chicken patties, nuggets and tenders",3,78,70
+"Chicken patties, nuggets and tenders",4,49,42
+"Chicken patties, nuggets and tenders",5,64,60
+"Chicken patties, nuggets and tenders",8,11,10
+"Chicken, whole pieces",0,303,205
+"Chicken, whole pieces",1,449,313
+"Chicken, whole pieces",2,637,458
+"Chicken, whole pieces",3,471,332
+"Chicken, whole pieces",4,323,227
+"Chicken, whole pieces",5,462,317
+"Chicken, whole pieces",8,45,35
+"Chicken, whole pieces",99,4,3
+Chicken/turkey sandwiches (single code),0,27,24
+Chicken/turkey sandwiches (single code),1,43,39
+Chicken/turkey sandwiches (single code),2,92,81
+Chicken/turkey sandwiches (single code),3,57,52
+Chicken/turkey sandwiches (single code),4,37,33
+Chicken/turkey sandwiches (single code),5,35,31
+Chicken/turkey sandwiches (single code),8,11,10
+Citrus fruits,0,112,85
+Citrus fruits,1,148,104
+Citrus fruits,2,249,177
+Citrus fruits,3,136,100
+Citrus fruits,4,80,67
+Citrus fruits,5,110,84
+Citrus fruits,8,15,12
+Citrus fruits,99,1,1
+Citrus juice,0,146,108
+Citrus juice,1,234,158
+Citrus juice,2,318,233
+Citrus juice,3,248,179
+Citrus juice,4,138,101
+Citrus juice,5,232,156
+Citrus juice,8,32,21
+Citrus juice,99,2,1
+Coffee,0,730,326
+Coffee,1,962,441
+Coffee,2,1469,714
+Coffee,3,1098,494
+Coffee,4,708,314
+Coffee,5,902,423
+Coffee,8,116,56
+Coffee,99,4,2
+Cold cuts and cured meats,0,210,147
+Cold cuts and cured meats,1,320,242
+Cold cuts and cured meats,2,476,348
+Cold cuts and cured meats,3,360,261
+Cold cuts and cured meats,4,257,188
+Cold cuts and cured meats,5,396,278
+Cold cuts and cured meats,8,41,30
+Cold cuts and cured meats,99,4,2
+Cookies and brownies,0,241,182
+Cookies and brownies,1,318,236
+Cookies and brownies,2,529,386
+Cookies and brownies,3,456,323
+Cookies and brownies,4,314,215
+Cookies and brownies,5,361,253
+Cookies and brownies,8,47,33
+Cookies and brownies,99,3,2
+Corn,0,45,42
+Corn,1,65,61
+Corn,2,117,109
+Corn,3,91,81
+Corn,4,57,50
+Corn,5,89,82
+Corn,8,10,8
+Cottage/ricotta cheese,0,13,11
+Cottage/ricotta cheese,1,18,17
+Cottage/ricotta cheese,2,31,29
+Cottage/ricotta cheese,3,24,20
+Cottage/ricotta cheese,4,16,13
+Cottage/ricotta cheese,5,15,14
+Cottage/ricotta cheese,8,4,4
+Cottage/ricotta cheese,99,1,1
+"Crackers, excludes saltines",0,108,90
+"Crackers, excludes saltines",1,176,136
+"Crackers, excludes saltines",2,279,213
+"Crackers, excludes saltines",3,179,145
+"Crackers, excludes saltines",4,141,110
+"Crackers, excludes saltines",5,155,130
+"Crackers, excludes saltines",8,29,23
+"Crackers, excludes saltines",99,1,1
+Cream and cream substitutes,0,229,129
+Cream and cream substitutes,1,339,198
+Cream and cream substitutes,2,576,320
+Cream and cream substitutes,3,451,244
+Cream and cream substitutes,4,243,132
+Cream and cream substitutes,5,365,186
+Cream and cream substitutes,8,58,34
+Cream and cream substitutes,99,4,2
+"Cream cheese, sour cream, whipped cream",0,57,49
+"Cream cheese, sour cream, whipped cream",1,84,77
+"Cream cheese, sour cream, whipped cream",2,159,129
+"Cream cheese, sour cream, whipped cream",3,103,84
+"Cream cheese, sour cream, whipped cream",4,61,54
+"Cream cheese, sour cream, whipped cream",5,62,53
+"Cream cheese, sour cream, whipped cream",8,16,11
+"Dark green vegetables, excludes lettuce",0,137,103
+"Dark green vegetables, excludes lettuce",1,186,140
+"Dark green vegetables, excludes lettuce",2,272,217
+"Dark green vegetables, excludes lettuce",3,172,144
+"Dark green vegetables, excludes lettuce",4,137,110
+"Dark green vegetables, excludes lettuce",5,125,100
+"Dark green vegetables, excludes lettuce",8,22,15
+"Dark green vegetables, excludes lettuce",99,1,1
+Diet soft drinks,0,162,80
+Diet soft drinks,1,253,127
+Diet soft drinks,2,357,193
+Diet soft drinks,3,322,150
+Diet soft drinks,4,192,85
+Diet soft drinks,5,301,145
+Diet soft drinks,8,20,9
+Diet soft drinks,99,6,2
+Diet sport and energy drinks,0,3,3
+Diet sport and energy drinks,1,1,1
+Diet sport and energy drinks,2,6,3
+Diet sport and energy drinks,3,7,7
+Diet sport and energy drinks,4,6,6
+Diet sport and energy drinks,5,2,2
+"Dips, gravies, other sauces",0,114,95
+"Dips, gravies, other sauces",1,192,136
+"Dips, gravies, other sauces",2,242,184
+"Dips, gravies, other sauces",3,174,133
+"Dips, gravies, other sauces",4,92,76
+"Dips, gravies, other sauces",5,132,109
+"Dips, gravies, other sauces",8,14,12
+"Dips, gravies, other sauces",99,2,2
+"Doughnuts, sweet rolls, pastries",0,108,85
+"Doughnuts, sweet rolls, pastries",1,168,137
+"Doughnuts, sweet rolls, pastries",2,253,196
+"Doughnuts, sweet rolls, pastries",3,160,134
+"Doughnuts, sweet rolls, pastries",4,110,98
+"Doughnuts, sweet rolls, pastries",5,156,127
+"Doughnuts, sweet rolls, pastries",8,28,22
+"Doughnuts, sweet rolls, pastries",99,1,1
+Dried fruits,0,61,45
+Dried fruits,1,45,38
+Dried fruits,2,84,69
+Dried fruits,3,67,47
+Dried fruits,4,42,26
+Dried fruits,5,42,33
+Dried fruits,8,6,6
+"Egg rolls, dumplings, sushi",0,49,39
+"Egg rolls, dumplings, sushi",1,50,42
+"Egg rolls, dumplings, sushi",2,80,69
+"Egg rolls, dumplings, sushi",3,55,44
+"Egg rolls, dumplings, sushi",4,18,14
+"Egg rolls, dumplings, sushi",5,26,21
+"Egg rolls, dumplings, sushi",8,11,8
+Egg/breakfast sandwiches (single code),0,32,30
+Egg/breakfast sandwiches (single code),1,56,49
+Egg/breakfast sandwiches (single code),2,109,97
+Egg/breakfast sandwiches (single code),3,70,64
+Egg/breakfast sandwiches (single code),4,41,34
+Egg/breakfast sandwiches (single code),5,55,46
+Egg/breakfast sandwiches (single code),8,4,4
+Eggs and omelets,0,243,183
+Eggs and omelets,1,345,279
+Eggs and omelets,2,554,437
+Eggs and omelets,3,401,319
+Eggs and omelets,4,270,211
+Eggs and omelets,5,397,296
+Eggs and omelets,8,40,34
+Eggs and omelets,99,1,1
+Enhanced or fortified water,0,9,5
+Enhanced or fortified water,1,26,17
+Enhanced or fortified water,2,31,23
+Enhanced or fortified water,3,20,14
+Enhanced or fortified water,4,5,4
+Enhanced or fortified water,5,11,7
+Enhanced or fortified water,8,4,3
+Fish,0,136,101
+Fish,1,161,135
+Fish,2,291,237
+Fish,3,176,142
+Fish,4,110,87
+Fish,5,136,115
+Fish,8,24,18
+Fish,99,1,1
+"Flavored milk, lowfat",0,7,6
+"Flavored milk, lowfat",1,11,9
+"Flavored milk, lowfat",2,6,6
+"Flavored milk, lowfat",3,3,3
+"Flavored milk, lowfat",4,5,5
+"Flavored milk, lowfat",5,5,4
+"Flavored milk, nonfat",0,1,1
+"Flavored milk, nonfat",1,1,1
+"Flavored milk, nonfat",2,3,3
+"Flavored milk, nonfat",4,2,2
+"Flavored milk, nonfat",5,1,1
+"Flavored milk, reduced fat",0,17,14
+"Flavored milk, reduced fat",1,10,10
+"Flavored milk, reduced fat",2,18,16
+"Flavored milk, reduced fat",3,10,10
+"Flavored milk, reduced fat",4,11,10
+"Flavored milk, reduced fat",5,11,8
+"Flavored milk, reduced fat",8,1,1
+"Flavored milk, whole",0,7,7
+"Flavored milk, whole",1,17,13
+"Flavored milk, whole",2,22,20
+"Flavored milk, whole",3,14,14
+"Flavored milk, whole",4,13,12
+"Flavored milk, whole",5,15,13
+"Flavored milk, whole",8,1,1
+Flavored or carbonated water,0,16,14
+Flavored or carbonated water,1,45,31
+Flavored or carbonated water,2,58,40
+Flavored or carbonated water,3,31,21
+Flavored or carbonated water,4,28,19
+Flavored or carbonated water,5,27,18
+Flavored or carbonated water,8,5,3
+Frankfurter sandwiches (single code),0,34,30
+Frankfurter sandwiches (single code),1,31,29
+Frankfurter sandwiches (single code),2,77,75
+Frankfurter sandwiches (single code),3,67,61
+Frankfurter sandwiches (single code),4,52,47
+Frankfurter sandwiches (single code),5,71,66
+Frankfurter sandwiches (single code),8,7,5
+Frankfurter sandwiches (single code),99,1,1
+Frankfurters,0,8,8
+Frankfurters,1,16,15
+Frankfurters,2,31,28
+Frankfurters,3,25,23
+Frankfurters,4,18,16
+Frankfurters,5,35,30
+Frankfurters,8,4,3
+Frankfurters,99,1,1
+French fries and other fried white potatoes,0,151,126
+French fries and other fried white potatoes,1,233,185
+French fries and other fried white potatoes,2,375,311
+French fries and other fried white potatoes,3,312,251
+French fries and other fried white potatoes,4,202,148
+French fries and other fried white potatoes,5,271,224
+French fries and other fried white potatoes,8,37,33
+French fries and other fried white potatoes,99,1,1
+Fried rice and lo/chow mein,0,51,39
+Fried rice and lo/chow mein,1,90,71
+Fried rice and lo/chow mein,2,104,77
+Fried rice and lo/chow mein,3,85,66
+Fried rice and lo/chow mein,4,30,25
+Fried rice and lo/chow mein,5,47,35
+Fried rice and lo/chow mein,8,5,5
+Fruit drinks,0,182,129
+Fruit drinks,1,282,207
+Fruit drinks,2,450,310
+Fruit drinks,3,407,251
+Fruit drinks,4,224,143
+Fruit drinks,5,356,231
+Fruit drinks,8,45,29
+Fruit drinks,99,2,1
+"Gelatins, ices, sorbets",0,17,16
+"Gelatins, ices, sorbets",1,34,32
+"Gelatins, ices, sorbets",2,58,48
+"Gelatins, ices, sorbets",3,42,39
+"Gelatins, ices, sorbets",4,38,33
+"Gelatins, ices, sorbets",5,50,38
+"Gelatins, ices, sorbets",8,4,4
+"Gelatins, ices, sorbets",99,1,1
+Grapes,0,62,48
+Grapes,1,99,80
+Grapes,2,113,91
+Grapes,3,93,73
+Grapes,4,58,49
+Grapes,5,98,77
+Grapes,8,19,17
+Grapes,99,1,1
+Grits and other cooked cereals,0,22,20
+Grits and other cooked cereals,1,33,30
+Grits and other cooked cereals,2,68,58
+Grits and other cooked cereals,3,35,30
+Grits and other cooked cereals,4,37,29
+Grits and other cooked cereals,5,70,54
+Grits and other cooked cereals,8,6,6
+Grits and other cooked cereals,99,3,1
+Ground beef,0,53,48
+Ground beef,1,91,83
+Ground beef,2,153,139
+Ground beef,3,108,104
+Ground beef,4,79,70
+Ground beef,5,103,90
+Ground beef,8,13,12
+Ice cream and frozen dairy desserts,0,157,130
+Ice cream and frozen dairy desserts,1,164,138
+Ice cream and frozen dairy desserts,2,298,257
+Ice cream and frozen dairy desserts,3,243,204
+Ice cream and frozen dairy desserts,4,186,153
+Ice cream and frozen dairy desserts,5,264,209
+Ice cream and frozen dairy desserts,8,22,18
+Ice cream and frozen dairy desserts,99,1,1
+"Jams, syrups, toppings",0,142,111
+"Jams, syrups, toppings",1,165,128
+"Jams, syrups, toppings",2,315,235
+"Jams, syrups, toppings",3,196,160
+"Jams, syrups, toppings",4,150,122
+"Jams, syrups, toppings",5,196,151
+"Jams, syrups, toppings",8,30,23
+"Jams, syrups, toppings",99,3,3
+"Lamb, goat, game",0,12,10
+"Lamb, goat, game",1,12,11
+"Lamb, goat, game",2,33,30
+"Lamb, goat, game",3,11,10
+"Lamb, goat, game",4,5,4
+"Lamb, goat, game",5,4,4
+"Lamb, goat, game",8,1,1
+Lettuce and lettuce salads,0,289,215
+Lettuce and lettuce salads,1,432,295
+Lettuce and lettuce salads,2,655,466
+Lettuce and lettuce salads,3,456,339
+Lettuce and lettuce salads,4,308,211
+Lettuce and lettuce salads,5,359,263
+Lettuce and lettuce salads,8,45,39
+Liquor and cocktails,0,64,47
+Liquor and cocktails,1,87,68
+Liquor and cocktails,2,141,96
+Liquor and cocktails,3,71,55
+Liquor and cocktails,4,74,59
+Liquor and cocktails,5,93,65
+Liquor and cocktails,8,21,14
+Liver and organ meats,0,6,5
+Liver and organ meats,1,5,5
+Liver and organ meats,2,7,6
+Liver and organ meats,3,7,7
+Liver and organ meats,4,1,1
+Liver and organ meats,5,11,11
+Macaroni and cheese,0,51,45
+Macaroni and cheese,1,57,54
+Macaroni and cheese,2,89,81
+Macaroni and cheese,3,68,58
+Macaroni and cheese,4,52,49
+Macaroni and cheese,5,85,77
+Macaroni and cheese,8,8,8
+Macaroni and cheese,99,2,2
+Margarine,0,88,66
+Margarine,1,133,90
+Margarine,2,215,163
+Margarine,3,247,166
+Margarine,4,167,110
+Margarine,5,200,133
+Margarine,8,17,11
+Margarine,99,5,2
+Mashed potatoes and white potato mixtures,0,109,93
+Mashed potatoes and white potato mixtures,1,126,113
+Mashed potatoes and white potato mixtures,2,222,193
+Mashed potatoes and white potato mixtures,3,170,144
+Mashed potatoes and white potato mixtures,4,147,133
+Mashed potatoes and white potato mixtures,5,202,164
+Mashed potatoes and white potato mixtures,8,23,20
+Mashed potatoes and white potato mixtures,99,2,1
+Mayonnaise,0,149,119
+Mayonnaise,1,222,177
+Mayonnaise,2,360,286
+Mayonnaise,3,272,221
+Mayonnaise,4,200,157
+Mayonnaise,5,290,213
+Mayonnaise,8,21,17
+Mayonnaise,99,3,1
+Meat mixed dishes,0,126,104
+Meat mixed dishes,1,173,148
+Meat mixed dishes,2,262,217
+Meat mixed dishes,3,204,173
+Meat mixed dishes,4,123,106
+Meat mixed dishes,5,183,158
+Meat mixed dishes,8,28,25
+Meat mixed dishes,99,1,1
+Melons,0,65,49
+Melons,1,79,57
+Melons,2,136,88
+Melons,3,108,72
+Melons,4,51,40
+Melons,5,77,45
+Melons,8,21,12
+Milk shakes and other dairy drinks,0,17,14
+Milk shakes and other dairy drinks,1,25,24
+Milk shakes and other dairy drinks,2,47,42
+Milk shakes and other dairy drinks,3,28,26
+Milk shakes and other dairy drinks,4,28,24
+Milk shakes and other dairy drinks,5,27,19
+Milk shakes and other dairy drinks,8,5,5
+Milk substitutes,0,42,25
+Milk substitutes,1,81,48
+Milk substitutes,2,101,70
+Milk substitutes,3,41,26
+Milk substitutes,4,44,25
+Milk substitutes,5,24,16
+Milk substitutes,8,18,10
+"Milk, lowfat",0,96,50
+"Milk, lowfat",1,91,50
+"Milk, lowfat",2,227,119
+"Milk, lowfat",3,120,71
+"Milk, lowfat",4,89,48
+"Milk, lowfat",5,144,67
+"Milk, lowfat",8,24,12
+"Milk, nonfat",0,114,46
+"Milk, nonfat",1,108,62
+"Milk, nonfat",2,195,111
+"Milk, nonfat",3,128,66
+"Milk, nonfat",4,80,42
+"Milk, nonfat",5,85,39
+"Milk, nonfat",8,13,10
+"Milk, reduced fat",0,250,143
+"Milk, reduced fat",1,305,165
+"Milk, reduced fat",2,448,264
+"Milk, reduced fat",3,419,230
+"Milk, reduced fat",4,256,132
+"Milk, reduced fat",5,335,191
+"Milk, reduced fat",8,32,22
+"Milk, reduced fat",99,2,1
+"Milk, whole",0,159,85
+"Milk, whole",1,184,101
+"Milk, whole",2,269,167
+"Milk, whole",3,186,113
+"Milk, whole",4,149,83
+"Milk, whole",5,263,148
+"Milk, whole",8,31,15
+"Milk, whole",99,2,2
+Mustard and other condiments,0,157,115
+Mustard and other condiments,1,247,185
+Mustard and other condiments,2,417,313
+Mustard and other condiments,3,319,236
+Mustard and other condiments,4,175,138
+Mustard and other condiments,5,252,177
+Mustard and other condiments,8,33,24
+Mustard and other condiments,99,4,4
+Nachos,0,6,3
+Nachos,1,16,15
+Nachos,2,26,26
+Nachos,3,11,10
+Nachos,4,11,10
+Nachos,5,11,10
+Nachos,8,5,3
+Not included in a food category,0,39,28
+Not included in a food category,1,52,36
+Not included in a food category,2,64,54
+Not included in a food category,3,29,26
+Not included in a food category,4,17,15
+Not included in a food category,5,21,16
+Not included in a food category,8,7,5
+Nutrition bars,0,20,17
+Nutrition bars,1,14,13
+Nutrition bars,2,30,20
+Nutrition bars,3,16,12
+Nutrition bars,4,12,9
+Nutrition bars,5,4,4
+Nutrition bars,8,2,1
+Nutritional beverages,0,12,9
+Nutritional beverages,1,23,15
+Nutritional beverages,2,31,22
+Nutritional beverages,3,16,13
+Nutritional beverages,4,11,10
+Nutritional beverages,5,53,27
+Nutritional beverages,8,7,5
+Nutritional beverages,99,1,1
+Nuts and seeds,0,317,184
+Nuts and seeds,1,326,221
+Nuts and seeds,2,536,342
+Nuts and seeds,3,367,234
+Nuts and seeds,4,248,151
+Nuts and seeds,5,290,195
+Nuts and seeds,8,45,29
+Nuts and seeds,99,2,2
+Oatmeal,0,83,59
+Oatmeal,1,122,88
+Oatmeal,2,176,122
+Oatmeal,3,137,95
+Oatmeal,4,98,70
+Oatmeal,5,123,89
+Oatmeal,8,8,7
+"Olives, pickles, pickled vegetables",0,107,76
+"Olives, pickles, pickled vegetables",1,109,78
+"Olives, pickles, pickled vegetables",2,194,154
+"Olives, pickles, pickled vegetables",3,108,92
+"Olives, pickles, pickled vegetables",4,81,65
+"Olives, pickles, pickled vegetables",5,115,87
+"Olives, pickles, pickled vegetables",8,11,10
+Onions,0,110,92
+Onions,1,167,138
+Onions,2,255,214
+Onions,3,192,158
+Onions,4,102,87
+Onions,5,154,127
+Onions,8,14,12
+Other Mexican mixed dishes,0,47,43
+Other Mexican mixed dishes,1,90,73
+Other Mexican mixed dishes,2,111,92
+Other Mexican mixed dishes,3,87,75
+Other Mexican mixed dishes,4,40,34
+Other Mexican mixed dishes,5,46,40
+Other Mexican mixed dishes,8,12,9
+Other diet drinks,0,19,12
+Other diet drinks,1,34,20
+Other diet drinks,2,41,29
+Other diet drinks,3,31,23
+Other diet drinks,4,31,17
+Other diet drinks,5,41,24
+Other diet drinks,8,6,3
+Other diet drinks,99,1,1
+Other fruit juice,0,107,72
+Other fruit juice,1,91,74
+Other fruit juice,2,161,124
+Other fruit juice,3,130,95
+Other fruit juice,4,63,45
+Other fruit juice,5,124,80
+Other fruit juice,8,16,13
+Other fruits and fruit salads,0,138,99
+Other fruits and fruit salads,1,154,109
+Other fruits and fruit salads,2,305,224
+Other fruits and fruit salads,3,209,162
+Other fruits and fruit salads,4,126,87
+Other fruits and fruit salads,5,147,106
+Other fruits and fruit salads,8,29,19
+Other fruits and fruit salads,99,3,2
+Other red and orange vegetables,0,29,26
+Other red and orange vegetables,1,63,57
+Other red and orange vegetables,2,81,68
+Other red and orange vegetables,3,78,64
+Other red and orange vegetables,4,34,30
+Other red and orange vegetables,5,42,39
+Other red and orange vegetables,8,4,4
+Other red and orange vegetables,99,1,1
+Other sandwiches (single code),0,20,18
+Other sandwiches (single code),1,48,41
+Other sandwiches (single code),2,58,55
+Other sandwiches (single code),3,43,39
+Other sandwiches (single code),4,29,25
+Other sandwiches (single code),5,39,34
+Other sandwiches (single code),8,6,5
+Other starchy vegetables,0,43,41
+Other starchy vegetables,1,70,61
+Other starchy vegetables,2,97,82
+Other starchy vegetables,3,72,62
+Other starchy vegetables,4,52,48
+Other starchy vegetables,5,51,43
+Other starchy vegetables,8,7,4
+Other vegetables and combinations,0,408,230
+Other vegetables and combinations,1,469,289
+Other vegetables and combinations,2,726,437
+Other vegetables and combinations,3,479,316
+Other vegetables and combinations,4,310,209
+Other vegetables and combinations,5,319,212
+Other vegetables and combinations,8,59,36
+Other vegetables and combinations,99,2,2
+"Pancakes, waffles, French toast",0,51,44
+"Pancakes, waffles, French toast",1,73,68
+"Pancakes, waffles, French toast",2,118,105
+"Pancakes, waffles, French toast",3,89,79
+"Pancakes, waffles, French toast",4,58,54
+"Pancakes, waffles, French toast",5,91,79
+"Pancakes, waffles, French toast",8,6,5
+"Pasta mixed dishes, excludes macaroni and cheese",0,101,79
+"Pasta mixed dishes, excludes macaroni and cheese",1,141,121
+"Pasta mixed dishes, excludes macaroni and cheese",2,195,158
+"Pasta mixed dishes, excludes macaroni and cheese",3,147,124
+"Pasta mixed dishes, excludes macaroni and cheese",4,110,90
+"Pasta mixed dishes, excludes macaroni and cheese",5,145,113
+"Pasta mixed dishes, excludes macaroni and cheese",8,21,17
+"Pasta mixed dishes, excludes macaroni and cheese",99,2,2
+"Pasta sauces, tomato-based",0,28,24
+"Pasta sauces, tomato-based",1,31,31
+"Pasta sauces, tomato-based",2,38,34
+"Pasta sauces, tomato-based",3,23,22
+"Pasta sauces, tomato-based",4,16,15
+"Pasta sauces, tomato-based",5,32,31
+"Pasta sauces, tomato-based",8,1,1
+"Pasta, noodles, cooked grains",0,58,51
+"Pasta, noodles, cooked grains",1,64,58
+"Pasta, noodles, cooked grains",2,81,80
+"Pasta, noodles, cooked grains",3,66,57
+"Pasta, noodles, cooked grains",4,37,35
+"Pasta, noodles, cooked grains",5,47,45
+"Pasta, noodles, cooked grains",8,4,4
+Peaches and nectarines,0,42,33
+Peaches and nectarines,1,45,35
+Peaches and nectarines,2,58,53
+Peaches and nectarines,3,62,55
+Peaches and nectarines,4,48,42
+Peaches and nectarines,5,55,43
+Peaches and nectarines,8,8,5
+Pizza,0,121,99
+Pizza,1,150,127
+Pizza,2,267,204
+Pizza,3,187,147
+Pizza,4,111,87
+Pizza,5,160,121
+Pizza,8,24,19
+Popcorn,0,37,35
+Popcorn,1,64,56
+Popcorn,2,105,96
+Popcorn,3,68,61
+Popcorn,4,47,45
+Popcorn,5,63,60
+Popcorn,8,7,7
+Popcorn,99,2,2
+Pork,0,83,70
+Pork,1,97,80
+Pork,2,198,169
+Pork,3,156,134
+Pork,4,105,83
+Pork,5,148,126
+Pork,8,18,13
+Potato chips,0,111,94
+Potato chips,1,182,146
+Potato chips,2,309,262
+Potato chips,3,189,158
+Potato chips,4,157,130
+Potato chips,5,244,206
+Potato chips,8,20,18
+Potato chips,99,1,1
+Poultry mixed dishes,0,104,82
+Poultry mixed dishes,1,114,93
+Poultry mixed dishes,2,184,149
+Poultry mixed dishes,3,134,117
+Poultry mixed dishes,4,82,71
+Poultry mixed dishes,5,103,87
+Poultry mixed dishes,8,17,14
+Pretzels/snack mix,0,29,21
+Pretzels/snack mix,1,54,48
+Pretzels/snack mix,2,76,68
+Pretzels/snack mix,3,61,49
+Pretzels/snack mix,4,32,27
+Pretzels/snack mix,5,52,41
+Pretzels/snack mix,8,12,9
+Pretzels/snack mix,99,1,1
+Processed soy products,0,37,28
+Processed soy products,1,21,16
+Processed soy products,2,34,29
+Processed soy products,3,22,19
+Processed soy products,4,11,8
+Processed soy products,5,12,10
+Processed soy products,8,3,3
+Protein and nutritional powders,0,32,19
+Protein and nutritional powders,1,28,17
+Protein and nutritional powders,2,51,32
+Protein and nutritional powders,3,29,19
+Protein and nutritional powders,4,27,19
+Protein and nutritional powders,5,16,13
+Protein and nutritional powders,8,5,4
+Pudding,0,24,19
+Pudding,1,28,24
+Pudding,2,47,40
+Pudding,3,33,29
+Pudding,4,29,28
+Pudding,5,24,21
+Pudding,8,2,2
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",0,120,92
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",1,169,138
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",2,279,224
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",3,212,164
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",4,136,117
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",5,178,141
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",8,23,19
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",99,1,1
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",0,127,94
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",1,115,89
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",2,244,186
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",3,162,131
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",4,125,90
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",5,170,118
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",8,22,13
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",99,2,1
+Rice,0,301,192
+Rice,1,397,252
+Rice,2,559,349
+Rice,3,348,234
+Rice,4,193,122
+Rice,5,220,166
+Rice,8,54,29
+Rice mixed dishes,0,83,66
+Rice mixed dishes,1,129,111
+Rice mixed dishes,2,212,165
+Rice mixed dishes,3,127,107
+Rice mixed dishes,4,77,62
+Rice mixed dishes,5,90,70
+Rice mixed dishes,8,11,10
+Rolls and buns,0,166,138
+Rolls and buns,1,251,201
+Rolls and buns,2,363,308
+Rolls and buns,3,259,202
+Rolls and buns,4,189,152
+Rolls and buns,5,230,187
+Rolls and buns,8,23,21
+Rolls and buns,99,2,2
+Salad dressings and vegetable oils,0,204,158
+Salad dressings and vegetable oils,1,263,192
+Salad dressings and vegetable oils,2,453,345
+Salad dressings and vegetable oils,3,321,243
+Salad dressings and vegetable oils,4,211,158
+Salad dressings and vegetable oils,5,230,178
+Salad dressings and vegetable oils,8,36,29
+Salad dressings and vegetable oils,99,2,1
+Saltine crackers,0,47,39
+Saltine crackers,1,62,52
+Saltine crackers,2,114,97
+Saltine crackers,3,77,65
+Saltine crackers,4,63,53
+Saltine crackers,5,81,71
+Saltine crackers,8,6,6
+Sausages,0,74,64
+Sausages,1,92,82
+Sausages,2,164,137
+Sausages,3,153,133
+Sausages,4,95,81
+Sausages,5,147,122
+Sausages,8,12,10
+Sausages,99,1,1
+Seafood mixed dishes,0,53,43
+Seafood mixed dishes,1,68,60
+Seafood mixed dishes,2,100,91
+Seafood mixed dishes,3,78,70
+Seafood mixed dishes,4,54,49
+Seafood mixed dishes,5,68,60
+Seafood mixed dishes,8,5,4
+Shellfish,0,67,50
+Shellfish,1,75,55
+Shellfish,2,114,92
+Shellfish,3,75,60
+Shellfish,4,30,23
+Shellfish,5,60,53
+Shellfish,8,6,6
+Soft drinks,0,383,205
+Soft drinks,1,648,324
+Soft drinks,2,998,506
+Soft drinks,3,726,380
+Soft drinks,4,576,276
+Soft drinks,5,795,388
+Soft drinks,8,99,54
+Soft drinks,99,3,2
+Soups,0,223,150
+Soups,1,312,207
+Soups,2,434,300
+Soups,3,297,197
+Soups,4,151,114
+Soups,5,205,162
+Soups,8,57,29
+Soups,99,5,2
+Soy-based condiments,0,73,50
+Soy-based condiments,1,45,37
+Soy-based condiments,2,119,91
+Soy-based condiments,3,68,48
+Soy-based condiments,4,15,15
+Soy-based condiments,5,34,31
+Soy-based condiments,8,6,6
+Sport and energy drinks,0,57,37
+Sport and energy drinks,1,75,57
+Sport and energy drinks,2,129,101
+Sport and energy drinks,3,96,74
+Sport and energy drinks,4,72,45
+Sport and energy drinks,5,78,48
+Sport and energy drinks,8,17,9
+Sport and energy drinks,99,1,1
+Stir-fry and soy-based sauce mixtures,0,64,53
+Stir-fry and soy-based sauce mixtures,1,85,69
+Stir-fry and soy-based sauce mixtures,2,139,89
+Stir-fry and soy-based sauce mixtures,3,107,80
+Stir-fry and soy-based sauce mixtures,4,41,32
+Stir-fry and soy-based sauce mixtures,5,68,48
+Stir-fry and soy-based sauce mixtures,8,11,8
+String beans,0,53,48
+String beans,1,72,63
+String beans,2,121,110
+String beans,3,94,88
+String beans,4,79,77
+String beans,5,122,104
+String beans,8,10,10
+Sugar substitutes,0,133,58
+Sugar substitutes,1,196,97
+Sugar substitutes,2,318,161
+Sugar substitutes,3,273,127
+Sugar substitutes,4,173,84
+Sugar substitutes,5,216,112
+Sugar substitutes,8,16,7
+Sugar substitutes,99,2,1
+Sugars and honey,0,375,203
+Sugars and honey,1,519,280
+Sugars and honey,2,794,432
+Sugars and honey,3,550,294
+Sugars and honey,4,348,198
+Sugars and honey,5,441,246
+Sugars and honey,8,66,40
+Sugars and honey,99,8,3
+Tap water,0,1148,414
+Tap water,1,1462,527
+Tap water,2,2225,813
+Tap water,3,1500,543
+Tap water,4,1015,376
+Tap water,5,1207,486
+Tap water,8,179,75
+Tap water,99,5,2
+Tea,0,451,227
+Tea,1,537,286
+Tea,2,964,486
+Tea,3,632,322
+Tea,4,385,207
+Tea,5,553,268
+Tea,8,68,31
+Tea,99,7,3
+Tomato-based condiments,0,236,152
+Tomato-based condiments,1,388,263
+Tomato-based condiments,2,542,367
+Tomato-based condiments,3,443,286
+Tomato-based condiments,4,264,184
+Tomato-based condiments,5,324,225
+Tomato-based condiments,8,41,27
+Tomato-based condiments,99,2,1
+Tomatoes,0,243,174
+Tomatoes,1,341,250
+Tomatoes,2,549,401
+Tomatoes,3,389,290
+Tomatoes,4,258,184
+Tomatoes,5,289,221
+Tomatoes,8,29,24
+Tomatoes,99,1,1
+"Tortilla, corn, other chips",0,135,112
+"Tortilla, corn, other chips",1,183,144
+"Tortilla, corn, other chips",2,252,217
+"Tortilla, corn, other chips",3,185,144
+"Tortilla, corn, other chips",4,125,102
+"Tortilla, corn, other chips",5,170,137
+"Tortilla, corn, other chips",8,32,25
+Tortillas,0,75,57
+Tortillas,1,141,100
+Tortillas,2,179,126
+Tortillas,3,153,102
+Tortillas,4,60,45
+Tortillas,5,75,55
+Tortillas,8,15,11
+"Turkey, duck, other poultry",0,26,23
+"Turkey, duck, other poultry",1,50,45
+"Turkey, duck, other poultry",2,71,58
+"Turkey, duck, other poultry",3,47,39
+"Turkey, duck, other poultry",4,38,30
+"Turkey, duck, other poultry",5,48,45
+"Turkey, duck, other poultry",8,5,5
+"Turkey, duck, other poultry",99,1,1
+Turnovers and other grain-based items,0,39,34
+Turnovers and other grain-based items,1,41,37
+Turnovers and other grain-based items,2,65,58
+Turnovers and other grain-based items,3,40,34
+Turnovers and other grain-based items,4,35,31
+Turnovers and other grain-based items,5,29,27
+Turnovers and other grain-based items,8,1,1
+Turnovers and other grain-based items,99,1,1
+Vegetable juice,0,33,22
+Vegetable juice,1,18,16
+Vegetable juice,2,36,24
+Vegetable juice,3,38,28
+Vegetable juice,4,20,14
+Vegetable juice,5,21,17
+Vegetable juice,8,10,6
+Vegetable mixed dishes,0,74,59
+Vegetable mixed dishes,1,80,64
+Vegetable mixed dishes,2,144,128
+Vegetable mixed dishes,3,106,91
+Vegetable mixed dishes,4,77,63
+Vegetable mixed dishes,5,68,60
+Vegetable mixed dishes,8,19,15
+Vegetable mixed dishes,99,1,1
+"White potatoes, baked or boiled",0,46,37
+"White potatoes, baked or boiled",1,52,48
+"White potatoes, baked or boiled",2,83,74
+"White potatoes, baked or boiled",3,56,50
+"White potatoes, baked or boiled",4,40,38
+"White potatoes, baked or boiled",5,66,62
+"White potatoes, baked or boiled",8,7,7
+"White potatoes, baked or boiled",99,1,1
+Wine,0,76,58
+Wine,1,114,87
+Wine,2,172,121
+Wine,3,111,77
+Wine,4,70,48
+Wine,5,79,50
+Wine,8,14,11
+Yeast breads,0,597,346
+Yeast breads,1,802,464
+Yeast breads,2,1192,714
+Yeast breads,3,892,522
+Yeast breads,4,628,370
+Yeast breads,5,906,527
+Yeast breads,8,103,69
+Yeast breads,99,11,5
+"Yogurt, lowfat and nonfat",0,118,78
+"Yogurt, lowfat and nonfat",1,137,99
+"Yogurt, lowfat and nonfat",2,180,130
+"Yogurt, lowfat and nonfat",3,83,65
+"Yogurt, lowfat and nonfat",4,58,45
+"Yogurt, lowfat and nonfat",5,84,63
+"Yogurt, lowfat and nonfat",8,24,16
+"Yogurt, whole and reduced fat",0,28,23
+"Yogurt, whole and reduced fat",1,34,24
+"Yogurt, whole and reduced fat",2,31,26
+"Yogurt, whole and reduced fat",3,9,9
+"Yogurt, whole and reduced fat",4,10,9
+"Yogurt, whole and reduced fat",5,8,7
+"Yogurt, whole and reduced fat",8,3,2
+~ALL~,0,17307,592
+~ALL~,1,23529,788
+~ALL~,2,36619,1233
+~ALL~,3,26486,898
+~ALL~,4,17301,592
+~ALL~,5,23087,849
+~ALL~,8,3121,119
+~ALL~,99,178,5

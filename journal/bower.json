@@ -1,0 +1,23 @@
+{
+  "name": "nhanes-ocr",
+  "authors": [
+    "Chris Anderson <chris@heyanderson.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "snap.svg#^0.4.1",
+    "jquery": "^3.1.0",
+    "papaparse": "^4.1.2",
+    "lodash": "^4.16.1"
+  }
+}

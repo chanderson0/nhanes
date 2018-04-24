@@ -1,0 +1,303 @@
+cat,var,count,uniq_count
+Apple juice,1,177,143
+Apple juice,2,135,101
+Apples,1,794,595
+Apples,2,426,322
+Baby food: cereals,1,1,1
+Baby food: fruit,2,1,1
+Baby food: snacks and sweets,2,1,1
+Baby food: vegetable,1,2,2
+Baby food: yogurt,2,1,1
+Baby water,1,2,2
+Baby water,2,1,1
+Bacon,1,481,407
+Bacon,2,317,251
+Bagels and English muffins,1,306,249
+Bagels and English muffins,2,188,155
+Bananas,1,1162,819
+Bananas,2,574,432
+"Beans, peas, legumes",1,746,584
+"Beans, peas, legumes",2,450,345
+"Beef, excludes ground",1,621,532
+"Beef, excludes ground",2,413,350
+"Beef, excludes ground",9,1,1
+Beer,1,628,438
+Beer,2,490,337
+Berries,1,483,339
+Berries,2,251,181
+"Biscuits, muffins, quick breads",1,549,454
+"Biscuits, muffins, quick breads",2,365,293
+Bottled water,1,3794,1527
+Bottled water,2,1934,882
+Burgers (single code),1,278,252
+Burgers (single code),2,209,182
+Burritos and tacos,1,414,336
+Burritos and tacos,2,313,246
+Butter and animal fats,1,681,488
+Butter and animal fats,2,427,309
+Cakes and pies,1,740,609
+Cakes and pies,2,451,374
+Cakes and pies,9,1,1
+Candy containing chocolate,1,683,540
+Candy containing chocolate,2,490,366
+Candy not containing chocolate,1,627,493
+Candy not containing chocolate,2,422,330
+Carrots,1,488,407
+Carrots,2,251,211
+Carrots,9,1,1
+Cereal bars,1,254,195
+Cereal bars,2,145,108
+Cheese,1,2295,1453
+Cheese,2,1316,855
+"Chicken patties, nuggets and tenders",1,210,196
+"Chicken patties, nuggets and tenders",2,176,162
+"Chicken, whole pieces",1,1710,1190
+"Chicken, whole pieces",2,984,700
+Chicken/turkey sandwiches (single code),1,207,185
+Chicken/turkey sandwiches (single code),2,95,85
+Citrus fruits,1,561,404
+Citrus fruits,2,290,226
+Citrus juice,1,820,586
+Citrus juice,2,530,371
+Coffee,1,3739,1690
+Coffee,2,2249,1079
+Coffee,9,1,1
+Cold cuts and cured meats,1,1262,914
+Cold cuts and cured meats,2,802,582
+Cookies and brownies,1,1338,973
+Cookies and brownies,2,931,657
+Corn,1,297,274
+Corn,2,177,159
+Cottage/ricotta cheese,1,70,62
+Cottage/ricotta cheese,2,52,47
+"Crackers, excludes saltines",1,673,533
+"Crackers, excludes saltines",2,395,315
+Cream and cream substitutes,1,1493,793
+Cream and cream substitutes,2,771,451
+Cream and cream substitutes,9,1,1
+"Cream cheese, sour cream, whipped cream",1,338,286
+"Cream cheese, sour cream, whipped cream",2,204,171
+"Dark green vegetables, excludes lettuce",1,712,548
+"Dark green vegetables, excludes lettuce",2,340,282
+Diet soft drinks,1,1172,564
+Diet soft drinks,2,441,227
+Diet sport and energy drinks,1,20,17
+Diet sport and energy drinks,2,5,5
+"Dips, gravies, other sauces",1,541,419
+"Dips, gravies, other sauces",2,420,327
+"Dips, gravies, other sauces",9,1,1
+"Doughnuts, sweet rolls, pastries",1,559,456
+"Doughnuts, sweet rolls, pastries",2,425,344
+Dried fruits,1,241,177
+Dried fruits,2,106,87
+"Egg rolls, dumplings, sushi",1,164,137
+"Egg rolls, dumplings, sushi",2,125,100
+Egg/breakfast sandwiches (single code),1,229,202
+Egg/breakfast sandwiches (single code),2,138,122
+Eggs and omelets,1,1413,1104
+Eggs and omelets,2,838,656
+Enhanced or fortified water,1,56,42
+Enhanced or fortified water,2,50,31
+Fish,1,687,554
+Fish,2,348,282
+"Flavored milk, lowfat",1,18,17
+"Flavored milk, lowfat",2,19,16
+"Flavored milk, nonfat",1,5,5
+"Flavored milk, nonfat",2,3,3
+"Flavored milk, reduced fat",1,38,37
+"Flavored milk, reduced fat",2,40,32
+"Flavored milk, whole",1,45,42
+"Flavored milk, whole",2,44,38
+Flavored or carbonated water,1,131,92
+Flavored or carbonated water,2,79,54
+Frankfurter sandwiches (single code),1,210,195
+Frankfurter sandwiches (single code),2,130,119
+Frankfurters,1,91,81
+Frankfurters,2,47,43
+French fries and other fried white potatoes,1,904,742
+French fries and other fried white potatoes,2,678,537
+Fried rice and lo/chow mein,1,217,173
+Fried rice and lo/chow mein,2,195,145
+Fruit drinks,1,1190,804
+Fruit drinks,2,758,497
+"Gelatins, ices, sorbets",1,155,133
+"Gelatins, ices, sorbets",2,89,78
+Grapes,1,368,296
+Grapes,2,175,140
+Grits and other cooked cereals,1,168,144
+Grits and other cooked cereals,2,106,84
+Ground beef,1,339,303
+Ground beef,2,261,243
+Ice cream and frozen dairy desserts,1,792,660
+Ice cream and frozen dairy desserts,2,542,449
+Ice cream and frozen dairy desserts,9,1,1
+"Jams, syrups, toppings",1,736,573
+"Jams, syrups, toppings",2,461,360
+"Lamb, goat, game",1,53,47
+"Lamb, goat, game",2,25,23
+Lettuce and lettuce salads,1,1702,1191
+Lettuce and lettuce salads,2,842,637
+Liquor and cocktails,1,324,249
+Liquor and cocktails,2,227,155
+Liver and organ meats,1,18,18
+Liver and organ meats,2,19,17
+Macaroni and cheese,1,243,221
+Macaroni and cheese,2,169,153
+Margarine,1,695,486
+Margarine,2,377,255
+Mashed potatoes and white potato mixtures,1,607,516
+Mashed potatoes and white potato mixtures,2,394,345
+Mayonnaise,1,936,727
+Mayonnaise,2,581,464
+Meat mixed dishes,1,662,566
+Meat mixed dishes,2,438,366
+Melons,1,361,246
+Melons,2,176,117
+Milk shakes and other dairy drinks,1,115,97
+Milk shakes and other dairy drinks,2,62,57
+Milk substitutes,1,226,138
+Milk substitutes,2,125,82
+"Milk, lowfat",1,489,261
+"Milk, lowfat",2,302,156
+"Milk, nonfat",1,437,240
+"Milk, nonfat",2,286,136
+"Milk, reduced fat",1,1218,684
+"Milk, reduced fat",2,829,464
+"Milk, whole",1,631,376
+"Milk, whole",2,612,338
+Mustard and other condiments,1,1011,740
+Mustard and other condiments,2,592,451
+Mustard and other condiments,9,1,1
+Nachos,1,47,44
+Nachos,2,39,33
+Not included in a food category,1,118,98
+Not included in a food category,2,111,82
+Nutrition bars,1,68,54
+Nutrition bars,2,30,22
+Nutritional beverages,1,87,57
+Nutritional beverages,2,67,45
+Nuts and seeds,1,1434,890
+Nuts and seeds,2,697,468
+Oatmeal,1,527,374
+Oatmeal,2,220,156
+"Olives, pickles, pickled vegetables",1,458,349
+"Olives, pickles, pickled vegetables",2,267,213
+Onions,1,647,537
+Onions,2,347,291
+Other Mexican mixed dishes,1,243,207
+Other Mexican mixed dishes,2,190,159
+Other diet drinks,1,146,90
+Other diet drinks,2,58,39
+Other fruit juice,1,408,302
+Other fruit juice,2,284,201
+Other fruits and fruit salads,1,783,559
+Other fruits and fruit salads,2,328,249
+Other red and orange vegetables,1,228,195
+Other red and orange vegetables,2,104,94
+Other sandwiches (single code),1,150,132
+Other sandwiches (single code),2,93,85
+Other starchy vegetables,1,269,224
+Other starchy vegetables,2,123,117
+Other vegetables and combinations,1,1844,1135
+Other vegetables and combinations,2,928,596
+"Pancakes, waffles, French toast",1,300,266
+"Pancakes, waffles, French toast",2,186,168
+"Pasta mixed dishes, excludes macaroni and cheese",1,515,424
+"Pasta mixed dishes, excludes macaroni and cheese",2,347,280
+"Pasta sauces, tomato-based",1,101,94
+"Pasta sauces, tomato-based",2,68,64
+"Pasta, noodles, cooked grains",1,211,195
+"Pasta, noodles, cooked grains",2,146,135
+Peaches and nectarines,1,204,168
+Peaches and nectarines,2,114,98
+Pizza,1,569,455
+Pizza,2,451,349
+Popcorn,1,253,230
+Popcorn,2,140,132
+Pork,1,509,426
+Pork,2,296,249
+Potato chips,1,699,587
+Potato chips,2,514,428
+Poultry mixed dishes,1,442,365
+Poultry mixed dishes,2,296,248
+Pretzels/snack mix,1,201,168
+Pretzels/snack mix,2,116,96
+Processed soy products,1,92,69
+Processed soy products,2,48,44
+Protein and nutritional powders,1,144,92
+Protein and nutritional powders,2,44,31
+Pudding,1,117,101
+Pudding,2,70,62
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",1,656,524
+"Ready-to-eat cereal, higher sugar (>21.2g/100g)",2,462,372
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",1,595,449
+"Ready-to-eat cereal, lower sugar (=<21.2g/100g)",2,372,273
+Rice,1,1235,818
+Rice,2,837,526
+Rice mixed dishes,1,455,366
+Rice mixed dishes,2,274,225
+Rolls and buns,1,920,742
+Rolls and buns,2,563,469
+Salad dressings and vegetable oils,1,1161,863
+Salad dressings and vegetable oils,2,559,441
+Saltine crackers,1,287,239
+Saltine crackers,2,163,144
+Sausages,1,452,387
+Sausages,2,286,243
+Seafood mixed dishes,1,266,226
+Seafood mixed dishes,2,160,151
+Shellfish,1,231,188
+Shellfish,2,196,151
+Soft drinks,1,2138,1156
+Soft drinks,2,2090,979
+Soups,1,992,706
+Soups,2,692,455
+Soy-based condiments,1,214,170
+Soy-based condiments,2,146,108
+Sport and energy drinks,1,286,203
+Sport and energy drinks,2,239,169
+Stir-fry and soy-based sauce mixtures,1,310,217
+Stir-fry and soy-based sauce mixtures,2,205,162
+String beans,1,343,312
+String beans,2,208,188
+Sugar substitutes,1,969,470
+Sugar substitutes,2,356,176
+Sugar substitutes,9,2,1
+Sugars and honey,1,1786,970
+Sugars and honey,2,1315,726
+Tap water,1,5481,1993
+Tap water,2,3259,1242
+Tap water,9,1,1
+Tea,1,2261,1152
+Tea,2,1335,677
+Tea,9,1,1
+Tomato-based condiments,1,1299,881
+Tomato-based condiments,2,941,624
+Tomatoes,1,1366,995
+Tomatoes,2,733,550
+"Tortilla, corn, other chips",1,633,517
+"Tortilla, corn, other chips",2,449,364
+Tortillas,1,400,288
+Tortillas,2,298,208
+"Turkey, duck, other poultry",1,193,166
+"Turkey, duck, other poultry",2,93,80
+Turnovers and other grain-based items,1,156,139
+Turnovers and other grain-based items,2,95,84
+Vegetable juice,1,129,87
+Vegetable juice,2,47,40
+Vegetable mixed dishes,1,350,297
+Vegetable mixed dishes,2,219,184
+"White potatoes, baked or boiled",1,216,196
+"White potatoes, baked or boiled",2,134,120
+"White potatoes, baked or boiled",9,1,1
+Wine,1,448,312
+Wine,2,188,140
+Yeast breads,1,3186,1863
+Yeast breads,2,1945,1154
+"Yogurt, lowfat and nonfat",1,456,338
+"Yogurt, lowfat and nonfat",2,228,158
+"Yogurt, whole and reduced fat",1,62,52
+"Yogurt, whole and reduced fat",2,61,48
+~ALL~,1,91599,3065
+~ALL~,2,56016,2010
+~ALL~,9,13,1

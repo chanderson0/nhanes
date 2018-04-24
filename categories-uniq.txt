@@ -1,0 +1,144 @@
+Apple juice
+Apples
+Baby food: cereals
+Baby food: snacks and sweets
+Baby food: vegetable
+Baby water
+Bacon
+Bagels and English muffins
+Bananas
+Beans, peas, legumes
+Beef, excludes ground
+Beer
+Berries
+Biscuits, muffins, quick breads
+Bottled water
+Burgers (single code)
+Burritos and tacos
+Butter and animal fats
+Cakes and pies
+Candy containing chocolate
+Candy not containing chocolate
+Carrots
+Cereal bars
+Cheese
+Chicken patties, nuggets and tenders
+Chicken, whole pieces
+Chicken/turkey sandwiches (single code)
+Citrus fruits
+Citrus juice
+Coffee
+Cold cuts and cured meats
+Cookies and brownies
+Corn
+Cottage/ricotta cheese
+Crackers, excludes saltines
+Cream and cream substitutes
+Cream cheese, sour cream, whipped cream
+Dark green vegetables, excludes lettuce
+Diet soft drinks
+Diet sport and energy drinks
+Dips, gravies, other sauces
+Doughnuts, sweet rolls, pastries
+Dried fruits
+Egg rolls, dumplings, sushi
+Egg/breakfast sandwiches (single code)
+Eggs and omelets
+Enhanced or fortified water
+Fish
+Flavored milk, lowfat
+Flavored milk, nonfat
+Flavored milk, reduced fat
+Flavored milk, whole
+Flavored or carbonated water
+Frankfurter sandwiches (single code)
+Frankfurters
+French fries and other fried white potatoes
+Fried rice and lo/chow mein
+Fruit drinks
+Gelatins, ices, sorbets
+Grapes
+Grits and other cooked cereals
+Ground beef
+Ice cream and frozen dairy desserts
+Jams, syrups, toppings
+Lamb, goat, game
+Lettuce and lettuce salads
+Liquor and cocktails
+Liver and organ meats
+Macaroni and cheese
+Margarine
+Mashed potatoes and white potato mixtures
+Mayonnaise
+Meat mixed dishes
+Melons
+Milk shakes and other dairy drinks
+Milk substitutes
+Milk, lowfat
+Milk, nonfat
+Milk, reduced fat
+Milk, whole
+Mustard and other condiments
+Nachos
+Not included in a food category
+Nutrition bars
+Nutritional beverages
+Nuts and seeds
+Oatmeal
+Olives, pickles, pickled vegetables
+Onions
+Other Mexican mixed dishes
+Other diet drinks
+Other fruit juice
+Other fruits and fruit salads
+Other red and orange vegetables
+Other sandwiches (single code)
+Other starchy vegetables
+Other vegetables and combinations
+Pancakes, waffles, French toast
+Pasta mixed dishes, excludes macaroni and cheese
+Pasta sauces, tomato-based
+Pasta, noodles, cooked grains
+Peaches and nectarines
+Pizza
+Popcorn
+Pork
+Potato chips
+Poultry mixed dishes
+Pretzels/snack mix
+Processed soy products
+Protein and nutritional powders
+Pudding
+Ready-to-eat cereal, higher sugar (>21.2g/100g)
+Ready-to-eat cereal, lower sugar (=<21.2g/100g)
+Rice
+Rice mixed dishes
+Rolls and buns
+Salad dressings and vegetable oils
+Saltine crackers
+Sausages
+Seafood mixed dishes
+Shellfish
+Soft drinks
+Soups
+Soy-based condiments
+Sport and energy drinks
+Stir-fry and soy-based sauce mixtures
+String beans
+Sugar substitutes
+Sugars and honey
+Tap water
+Tea
+Tomato-based condiments
+Tomatoes
+Tortilla, corn, other chips
+Tortillas
+Turkey, duck, other poultry
+Turnovers and other grain-based items
+Vegetable juice
+Vegetable mixed dishes
+White potatoes, baked or boiled
+Wine
+Yeast breads
+Yogurt, lowfat and nonfat
+Yogurt, whole and reduced fat

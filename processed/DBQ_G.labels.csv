@@ -1,0 +1,51 @@
+DBQ_G,SEQN,Respondent sequence number
+DBQ_G,DBQ010,Ever breastfed or fed breastmilk
+DBQ_G,DBD030,Age stopped breastfeeding(days)
+DBQ_G,DBD041,Age first fed formula(days)
+DBQ_G,DBD050,Age stopped receiving formula(days)
+DBQ_G,DBD055,Age started other than breastmilk/fomula
+DBQ_G,DBD061,Age first fed milk(days)
+DBQ_G,DBQ073A,Type of milk first fed - whole milk
+DBQ_G,DBQ073B,Type of milk first fed - 2% milk
+DBQ_G,DBQ073C,Type of milk first fed - 1% milk
+DBQ_G,DBQ073D,Type of milk first fed - fat free milk
+DBQ_G,DBQ073E,Type of milk first fed - soy milk
+DBQ_G,DBQ073U,Type of milk first fed - other
+DBQ_G,DBD085,CHECK ITEM
+DBQ_G,DBQ700,How healthy is the diet
+DBQ_G,DBQ197,Past 30 day milk product consumption
+DBQ_G,DBQ223A,You drink whole or regular milk
+DBQ_G,DBQ223B,You drink 2% fat milk
+DBQ_G,DBQ223C,You drink 1% fat milk
+DBQ_G,DBQ223D,You drink fat free/skim milk
+DBQ_G,DBQ223E,You drink soy milk
+DBQ_G,DBQ223U,You drink another type of milk
+DBQ_G,DBD225,"CHECK ITEM DBD225:  IF SP AGE 1-19 GO TO DBD355, OTHERWISE CONTINUE."
+DBQ_G,DBQ229,Regular milk use 5 times per week
+DBQ_G,DBQ235A,How often drank milk age 5-12
+DBQ_G,DBQ235B,How often drank milk age 13-17
+DBQ_G,DBQ235C,How often drank milk age 18-35
+DBQ_G,DBD265a,CHECK ITEM
+DBQ_G,DBQ301,Community/Government meals delivered
+DBQ_G,DBQ330,Eat meals at Community/Senior center
+DBQ_G,DBD355,"CHECK ITEM DBD355: IF SP AGE >=60 or <4, GO TO DBD715, OTHERWISE, CONTINUE."
+DBQ_G,DBQ360,Attend kindergarten thru high school
+DBQ_G,DBQ370,School serves school lunches
+DBQ_G,DBD381,# of times/week get school lunch
+DBQ_G,DBQ390,"School lunch free, reduced or full price"
+DBQ_G,DBQ400,School serve complete breakfast each day
+DBQ_G,DBD411,# of times/week get school breakfast
+DBQ_G,DBQ421,School breakfast free/reduced/full price
+DBQ_G,DBQ422,CHECK ITEM
+DBQ_G,DBQ424,Summer program meal free/reduced price
+DBQ_G,DBD715,CHECK ITEM
+DBQ_G,DBD895,# of meals not home prepared
+DBQ_G,DBD900,# of meals from fast food or pizza place
+DBQ_G,DBD905,# of ready-to-eat foods in past 30 days
+DBQ_G,DBD910,# of frozen meals/pizza in past 30 days
+DBQ_G,DBQ715a,"BOX 15a  CHECK ITEM DBQ715a: IF SP AGE < 16, GO TO END OF SECTION.  OTHERWISE, CONTINUE."
+DBQ_G,CBQ595,Heard of MyPyramid
+DBQ_G,CBQ600,Heard of Food Pyramid
+DBQ_G,CBQ605,Looked up MyPyramid on internet
+DBQ_G,CBQ610,Tried MyPyramid plan
+

@@ -1,0 +1,93 @@
+MCQ_G,SEQN,Respondent sequence number
+MCQ_G,MCQ010,Ever been told you have asthma
+MCQ_G,MCQ025,Age when first had asthma
+MCQ_G,MCQ035,Still have asthma
+MCQ_G,MCQ040,Had asthma attack in past year
+MCQ_G,MCQ050,Emergency care visit for asthma/past yr
+MCQ_G,MCQ051,Dr. prescribed medication for asthma?
+MCQ_G,MCQ053,Taking treatment for anemia/past 3 mos
+MCQ_G,MCQ070,Ever been told you have psoriasis?
+MCQ_G,MCQ075,Degree of Psoriasis
+MCQ_G,MCQ080,Doctor ever said you were overweight
+MCQ_G,MCQ082,Ever been told you have celiac disease?
+MCQ_G,MCQ084,Difficulties in thinking or remembering
+MCQ_G,MCQ086,Are you on a gluten-free diet?
+MCQ_G,MCQ092,Ever receive blood transfusion
+MCQ_G,MCD093,Year receive blood transfusion
+MCQ_G,MCQ140,Trouble seeing even with glass/contacts
+MCQ_G,MCQ149,Menstrual periods started yet?
+MCQ_G,MCQ160a,Doctor ever said you had arthritis
+MCQ_G,MCQ180a,Age when told you had arthritis
+MCQ_G,MCQ195,Which type of arthritis was it?
+MCQ_G,MCQ160n,Doctor ever told you that you had gout?
+MCQ_G,MCQ180n,Age when told you had gout.
+MCQ_G,MCQ160b,Ever told had congestive heart failure
+MCQ_G,MCQ180b,Age when told you had heart failure
+MCQ_G,MCQ160c,Ever told you had coronary heart disease
+MCQ_G,MCQ180c,Age when told had coronary heart disease
+MCQ_G,MCQ160d,Ever told you had angina/angina pectoris
+MCQ_G,MCQ180d,Age when told you had angina pectoris
+MCQ_G,MCQ160e,Ever told you had heart attack
+MCQ_G,MCQ180e,Age when told you had heart attack
+MCQ_G,MCQ160f,Ever told you had a stroke
+MCQ_G,MCQ180f,Age when told you had a stroke
+MCQ_G,MCQ160g,Ever told you had emphysema
+MCQ_G,MCQ180g,Age when told you had emphysema
+MCQ_G,MCQ160m,Ever told you had thyroid problem
+MCQ_G,MCQ170m,Do you still have thyroid problem
+MCQ_G,MCQ180m,Age when told you had thyroid problem
+MCQ_G,MCQ160k,Ever told you had chronic bronchitis
+MCQ_G,MCQ170k,Do you still have chronic bronchitis
+MCQ_G,MCQ180k,Age when told you had chronic bronchitis
+MCQ_G,MCQ160l,Ever told you had any liver condition
+MCQ_G,MCQ170l,Do you still have a liver condition
+MCQ_G,MCQ180l,Age when told you had a liver condition
+MCQ_G,MCQ220,Ever told you had cancer or malignancy
+MCQ_G,MCQ230a,What kind of cancer
+MCQ_G,MCQ230b,What kind of cancer
+MCQ_G,MCQ230c,What kind of cancer
+MCQ_G,MCQ230d,What kind of cancer
+MCQ_G,MCQ240a,Age when bladder cancer first diagnosed
+MCQ_G,MCQ240aa,Age testicular cancer first diagnosed
+MCQ_G,MCQ240b,Age when blood cancer first diagnosed
+MCQ_G,MCQ240bb,Age when thyroid cancer first diagnosed
+MCQ_G,MCQ240c,Age when bone cancer first diagnosed
+MCQ_G,MCQ240cc,Age when uterine cancer first diagnosed
+MCQ_G,MCQ240d,Age when brain cancer first diagnosed
+MCQ_G,MCQ240dd,Age other type of cancer first diagnosed
+MCQ_G,MCQ240dk,How old when cancer first diagnosed?
+MCQ_G,MCQ240e,Age when breast cancer first diagnosed
+MCQ_G,MCQ240f,Age when cervical cancer first diagnosed
+MCQ_G,MCQ240g,Age when colon cancer first diagnosed
+MCQ_G,MCQ240h,Age esophageal cancer first diagnosed
+MCQ_G,MCQ240i,Age gallbladder cancer first diagnosed
+MCQ_G,MCQ240j,Age when kidney cancer first diagnosed
+MCQ_G,MCQ240k,Age larynx/windpipe cancer diagnosed
+MCQ_G,MCQ240l,Age when leukemia first diagnosed
+MCQ_G,MCQ240m,Age when liver cancer first diagnosed
+MCQ_G,MCQ240n,Age when lung cancer first diagnosed
+MCQ_G,MCQ240o,Age lymphoma/Hodgkins'  diagnosed
+MCQ_G,MCQ240p,Age when melanoma first diagnosed
+MCQ_G,MCQ240q,Age mouth\tongue\lip cancer diagnosed
+MCQ_G,MCQ240r,Age nervous system cancer diagnosed
+MCQ_G,MCQ240s,Age when ovarian cancer first diagnosed
+MCQ_G,MCQ240t,Age pancreatic cancer first diagnosed
+MCQ_G,MCQ240u,Age prostate cancer first diagnosed
+MCQ_G,MCQ240v,Age when rectal cancer first diagnosed
+MCQ_G,MCQ240w,Age non-melanoma skin cancer diagnosed
+MCQ_G,MCQ240x,Age unknown skin cancer first diagnosed
+MCQ_G,MCQ240y,Age soft tissue cancer first diagnosed
+MCQ_G,MCQ240z,Age stomach cancer first diagnosed
+MCQ_G,MCQ300a,Close relative had heart attack?
+MCQ_G,MCQ300b,Close relative had asthma?
+MCQ_G,MCQ300c,Close relative had diabetes?
+MCQ_G,MCQ365a,Doctor told you to lose weight
+MCQ_G,MCQ365b,Doctor told you to exercise
+MCQ_G,MCQ365c,Doctor told you to reduce salt in diet
+MCQ_G,MCQ365d,Doctor told you to reduce fat/calories
+MCQ_G,MCQ370a,Are you now controlling or losing weight
+MCQ_G,MCQ370b,Are you now increasing exercise
+MCQ_G,MCQ370c,Are you now reducing salt in diet
+MCQ_G,MCQ370d,Are you now reducing fat in diet
+MCQ_G,MCQ380,"Past 7 days, had trouble remembering"
+

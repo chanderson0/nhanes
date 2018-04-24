@@ -1,0 +1,15 @@
+HSQ_G,SEQN,Respondent sequence number
+HSQ_G,HSD010,General health condition
+HSQ_G,HSQ470,no. of days physical health was not good
+HSQ_G,HSQ480,no. of days mental health was not good
+HSQ_G,HSQ490,inactive days due to phys./mental hlth
+HSQ_G,HSQ493,Pain make it hard for usual activities
+HSQ_G,HSQ496,How many days feel anxious
+HSQ_G,HSQ500,SP have head cold or chest cold
+HSQ_G,HSQ510,SP have stomach or intestinal illness?
+HSQ_G,HSQ520,"SP have flu, pneumonia, ear infection?"
+HSQ_G,HSQ571,SP donated blood in past 12 months?
+HSQ_G,HSQ580,How long ago was last blood donation?
+HSQ_G,HSQ590,Blood ever tested for HIV virus?
+HSQ_G,HSAQUEX,Source of Health Status Data
+
